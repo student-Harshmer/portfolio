@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+}
+
+.gap1 {
+    gap: 10px;
+}
+
+.gap2 {
+    gap: 20px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
